@@ -1,0 +1,9 @@
+Building coinempz
+
+See doc/readme-qt.rst for instructions on building coinempz-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of coinempz.
+
+See doc/build-*.txt for instructions on building coinempzd,
+the intended-for-services, no-graphical-interface, reference
+implementation of coinempz.
